@@ -2,3 +2,5 @@ Hello this is a test file
 I am writing this text and will soon commit it to a git repo
 
 this part of the file I wrote with vs code
+
+This is a slight alteration tot he test file to see if it is updated correctly, learn git, etc.
